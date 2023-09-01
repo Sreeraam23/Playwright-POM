@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="54.534" tests="20" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Workspace_Playwright\PlaywrightPOM\target\test-classes;D:\Workspace_Playwright\PlaywrightPOM\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\com\microsoft\playwright\playwright\1.35.1\playwright-1.35.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\microsoft\playwright\driver\1.35.1\driver-1.35.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\microsoft\playwright\driver-bundle\1.35.1\driver-bundle-1.35.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.java.command" value="C:\Windows\Temp\surefire17111172354521703963\surefirebooter-20230829124227066_3.jar C:\Windows\Temp\surefire17111172354521703963 2023-08-29T12-42-25_602-jvmRun1 surefire-20230829124227066_1tmp surefire_0-20230829124227066_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Workspace_Playwright\PlaywrightPOM\target\test-classes;D:\Workspace_Playwright\PlaywrightPOM\target\classes;C:\Windows\system32\config\systemprofile\.m2\repository\com\microsoft\playwright\playwright\1.35.1\playwright-1.35.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\microsoft\playwright\driver\1.35.1\driver-1.35.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\microsoft\playwright\driver-bundle\1.35.1\driver-bundle-1.35.1.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Windows\system32\config\systemprofile\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Windows\system32\config\systemprofile\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Windows\system32\config\systemprofile"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Workspace_Playwright\PlaywrightPOM"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Windows\Temp\surefire17111172354521703963\surefirebooter-20230829124227066_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.19+9-LTS-224"/>
+    <property name="user.name" value="ZSCHN01LP0024$"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Windows\system32\config\systemprofile\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Windows\TEMP\"/>
+    <property name="java.version" value="11.0.19"/>
+    <property name="user.dir" value="D:\Workspace_Playwright\PlaywrightPOM"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\apache-maven-3.9.4\bin;C:\Program Files\Java\jdk-11\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.19+9-LTS-224"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="titleTest" classname="com.opencart.testscripts.HomePageTest" time="0.017">
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+Your Store
+]]></system-out>
+  </testcase>
+  <testcase name="urlTest" classname="com.opencart.testscripts.HomePageTest" time="0.002">
+    <system-out><![CDATA[https://naveenautomationlabs.com/opencart/
+]]></system-out>
+  </testcase>
+  <testcase name="selectionTest" classname="com.opencart.testscripts.HomePageTest" time="0.64"/>
+  <testcase name="itemList" classname="com.opencart.testscripts.HomePageTest" time="0.055"/>
+  <testcase name="titleTest" classname="com.opencart.testscripts.LoginPageTest" time="0.636"/>
+  <testcase name="linkTest" classname="com.opencart.testscripts.LoginPageTest" time="2.031"/>
+  <testcase name="credentials" classname="com.opencart.testscripts.LoginPageTest" time="0.924"/>
+  <testcase name="selectTest" classname="com.opencart.testscripts.ProductPageTest" time="4.447"/>
+  <testcase name="priceTest" classname="com.opencart.testscripts.ProductPageTest" time="0.005"/>
+  <testcase name="quantityTest" classname="com.opencart.testscripts.ProductPageTest" time="0.008"/>
+  <testcase name="headingTest" classname="com.opencart.testscripts.ProductPageTest" time="0.004"/>
+  <testcase name="addTest" classname="com.opencart.testscripts.ProductPageTest" time="0.043"/>
+  <testcase name="viewcartTest" classname="com.opencart.testscripts.ProductPageTest" time="0.049"/>
+  <testcase name="titleTest" classname="com.opencart.testscripts.CartPageTest" time="2.695"/>
+  <testcase name="quantityTest" classname="com.opencart.testscripts.CartPageTest" time="0.033"/>
+  <testcase name="noCouponTest" classname="com.opencart.testscripts.CartPageTest" time="2.13"/>
+  <testcase name="noGiftTest" classname="com.opencart.testscripts.CartPageTest" time="0.436"/>
+  <testcase name="invalidCoupon" classname="com.opencart.testscripts.CartPageTest" time="0.161"/>
+  <testcase name="invalidGift" classname="com.opencart.testscripts.CartPageTest" time="1.541"/>
+  <testcase name="chekoutTest" classname="com.opencart.testscripts.CartPageTest" time="0.003"/>
+</testsuite>

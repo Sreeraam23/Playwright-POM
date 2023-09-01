@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-01T08:59:47Z" name="Suite" finished-at="2023-09-01T09:00:40Z" duration-ms="52271">
+    <groups>
+    </groups>
+    <test started-at="2023-09-01T08:59:47Z" name="Test1" finished-at="2023-09-01T08:59:58Z" duration-ms="10964">
+      <class name="com.opencart.testscripts.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencart.testscripts.HomePageTest@5f031ebd]" started-at="2023-09-01T08:59:47Z" name="setup" finished-at="2023-09-01T08:59:56Z" duration-ms="8804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="titleTest()[pri:1, instance:com.opencart.testscripts.HomePageTest@5f031ebd]" started-at="2023-09-01T08:59:56Z" name="titleTest" finished-at="2023-09-01T08:59:56Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method signature="urlTest()[pri:2, instance:com.opencart.testscripts.HomePageTest@5f031ebd]" started-at="2023-09-01T08:59:57Z" name="urlTest" finished-at="2023-09-01T08:59:57Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method signature="selectionTest()[pri:3, instance:com.opencart.testscripts.HomePageTest@5f031ebd]" started-at="2023-09-01T08:59:57Z" name="selectionTest" finished-at="2023-09-01T08:59:58Z" duration-ms="735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectionTest -->
+        <test-method signature="itemList()[pri:4, instance:com.opencart.testscripts.HomePageTest@5f031ebd]" started-at="2023-09-01T08:59:58Z" name="itemList" finished-at="2023-09-01T08:59:58Z" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- itemList -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:com.opencart.testscripts.HomePageTest@5f031ebd]" started-at="2023-09-01T08:59:58Z" name="tear" finished-at="2023-09-01T08:59:58Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.opencart.testscripts.HomePageTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-09-01T08:59:59Z" name="Test2" finished-at="2023-09-01T09:00:09Z" duration-ms="9978">
+      <class name="com.opencart.testscripts.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencart.testscripts.LoginPageTest@58ebfd03]" started-at="2023-09-01T08:59:59Z" name="setup" finished-at="2023-09-01T09:00:04Z" duration-ms="5173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="titleTest()[pri:6, instance:com.opencart.testscripts.LoginPageTest@58ebfd03]" started-at="2023-09-01T09:00:04Z" name="titleTest" finished-at="2023-09-01T09:00:05Z" duration-ms="851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method signature="linkTest()[pri:7, instance:com.opencart.testscripts.LoginPageTest@58ebfd03]" started-at="2023-09-01T09:00:05Z" name="linkTest" finished-at="2023-09-01T09:00:07Z" duration-ms="2025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTest -->
+        <test-method signature="credentials()[pri:8, instance:com.opencart.testscripts.LoginPageTest@58ebfd03]" started-at="2023-09-01T09:00:07Z" name="credentials" finished-at="2023-09-01T09:00:09Z" duration-ms="1246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credentials -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:com.opencart.testscripts.LoginPageTest@58ebfd03]" started-at="2023-09-01T09:00:09Z" name="tear" finished-at="2023-09-01T09:00:09Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.opencart.testscripts.LoginPageTest -->
+    </test> <!-- Test2 -->
+    <test started-at="2023-09-01T09:00:09Z" name="Test3" finished-at="2023-09-01T09:00:19Z" duration-ms="10213">
+      <class name="com.opencart.testscripts.ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencart.testscripts.ProductPageTest@14c01636]" started-at="2023-09-01T09:00:09Z" name="setup" finished-at="2023-09-01T09:00:14Z" duration-ms="5047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectTest()[pri:9, instance:com.opencart.testscripts.ProductPageTest@14c01636]" started-at="2023-09-01T09:00:14Z" name="selectTest" finished-at="2023-09-01T09:00:17Z" duration-ms="3615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTest -->
+        <test-method signature="priceTest()[pri:10, instance:com.opencart.testscripts.ProductPageTest@14c01636]" started-at="2023-09-01T09:00:18Z" name="priceTest" finished-at="2023-09-01T09:00:18Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceTest -->
+        <test-method signature="quantityTest()[pri:11, instance:com.opencart.testscripts.ProductPageTest@14c01636]" started-at="2023-09-01T09:00:18Z" name="quantityTest" finished-at="2023-09-01T09:00:18Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantityTest -->
+        <test-method signature="headingTest()[pri:12, instance:com.opencart.testscripts.ProductPageTest@14c01636]" started-at="2023-09-01T09:00:18Z" name="headingTest" finished-at="2023-09-01T09:00:18Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headingTest -->
+        <test-method signature="addTest()[pri:13, instance:com.opencart.testscripts.ProductPageTest@14c01636]" started-at="2023-09-01T09:00:18Z" name="addTest" finished-at="2023-09-01T09:00:18Z" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method signature="viewcartTest()[pri:14, instance:com.opencart.testscripts.ProductPageTest@14c01636]" started-at="2023-09-01T09:00:19Z" name="viewcartTest" finished-at="2023-09-01T09:00:19Z" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewcartTest -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:com.opencart.testscripts.ProductPageTest@14c01636]" started-at="2023-09-01T09:00:19Z" name="tear" finished-at="2023-09-01T09:00:19Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.opencart.testscripts.ProductPageTest -->
+    </test> <!-- Test3 -->
+    <test started-at="2023-09-01T09:00:19Z" name="Test4" finished-at="2023-09-01T09:00:40Z" duration-ms="20713">
+      <class name="com.opencart.testscripts.CartPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:19Z" name="setup" finished-at="2023-09-01T09:00:30Z" duration-ms="10508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="titleTest()[pri:13, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:30Z" name="titleTest" finished-at="2023-09-01T09:00:33Z" duration-ms="3846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method signature="quantityTest()[pri:14, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:34Z" name="quantityTest" finished-at="2023-09-01T09:00:34Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantityTest -->
+        <test-method signature="noCouponTest()[pri:15, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:34Z" name="noCouponTest" finished-at="2023-09-01T09:00:36Z" duration-ms="2126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noCouponTest -->
+        <test-method signature="noGiftTest()[pri:16, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:36Z" name="noGiftTest" finished-at="2023-09-01T09:00:37Z" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noGiftTest -->
+        <test-method signature="invalidCoupon()[pri:17, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:37Z" name="invalidCoupon" finished-at="2023-09-01T09:00:37Z" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCoupon -->
+        <test-method signature="invalidGift()[pri:18, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:37Z" name="invalidGift" finished-at="2023-09-01T09:00:39Z" duration-ms="1916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidGift -->
+        <test-method signature="chekoutTest()[pri:19, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:40Z" name="chekoutTest" finished-at="2023-09-01T09:00:40Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chekoutTest -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:com.opencart.testscripts.CartPageTest@27953a83]" started-at="2023-09-01T09:00:40Z" name="tear" finished-at="2023-09-01T09:00:40Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.opencart.testscripts.CartPageTest -->
+    </test> <!-- Test4 -->
+  </suite> <!-- Suite -->
+</testng-results>

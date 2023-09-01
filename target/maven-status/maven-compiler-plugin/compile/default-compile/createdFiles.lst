@@ -1,0 +1,6 @@
+com\opencart\pagefactory\PageFactory.class
+com\opencart\pages\CartPage.class
+com\opencart\pages\HomePage.class
+com\opencart\pages\CheckoutPage.class
+com\opencart\pages\LoginPage.class
+com\opencart\pages\ProductPage.class

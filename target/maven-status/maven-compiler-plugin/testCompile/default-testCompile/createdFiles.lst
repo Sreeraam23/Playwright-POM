@@ -1,0 +1,7 @@
+com\opencart\applicationconstants\ApplicationConstants.class
+com\opencart\testscripts\ProductPageTest.class
+com\opencart\testscripts\CheckoutPageTest.class
+com\opencart\testscripts\LoginPageTest.class
+com\opencart\testscripts\CartPageTest.class
+com\opencart\testscripts\HomePageTest.class
+com\opencart\testbase\CaseTestBase.class
